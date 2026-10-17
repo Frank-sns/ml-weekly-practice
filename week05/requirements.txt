@@ -1,0 +1,9 @@
+# Python 3.14.5
+numpy==2.5.1
+pandas==3.0.3
+matplotlib==3.11.1
+scikit-learn==1.9.0
+torch==2.14.1
+
+# 注意：torch 请安装 CPU 版（体积小），命令见 README.md：
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
