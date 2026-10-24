@@ -11,3 +11,4 @@
 | Week 3 | 多特征回归与正则化 | [week03](week03/) |
 | Week 4 | PCA 降维与 K-means 聚类 | [week04](week04/) |
 | Week 5 | MLP 与 PyTorch 训练基础 | [week05](week05/) |
+| Week 6 | 变压器油温预测与序列窗口 | [week06](week06/) |

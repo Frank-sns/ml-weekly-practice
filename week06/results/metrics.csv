@@ -1,0 +1,13 @@
+model,split,n_samples,mae,rmse,selected
+last_value,train,8616,0.737,1.067,
+last_value,val,2880,0.608,0.925,
+last_value,test,2880,0.42,0.593,
+window_mean,train,8616,1.84,2.419,
+window_mean,val,2880,1.403,1.88,
+window_mean,test,2880,1.033,1.342,
+lag_linear,train,8616,0.719,1.043,是
+lag_linear,val,2880,0.599,0.91,是
+lag_linear,test,2880,0.423,0.585,是
+ridge_tuned,train,8616,0.719,1.043,
+ridge_tuned,val,2880,0.599,0.91,
+ridge_tuned,test,2880,0.423,0.584,

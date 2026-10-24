@@ -1,0 +1,5 @@
+model,param_name,param_value,train_mae,val_mae,train_rmse,val_rmse,rmse_gap,chosen_candidate
+lag_linear,,,0.719,0.599,1.043,0.91,-0.133,
+ridge,alpha,0.1,0.719,0.599,1.043,0.91,-0.133,
+ridge,alpha,1.0,0.719,0.599,1.043,0.91,-0.133,是
+ridge,alpha,10.0,0.724,0.605,1.046,0.912,-0.134,
