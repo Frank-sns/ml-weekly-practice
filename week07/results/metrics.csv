@@ -1,0 +1,12 @@
+﻿model,split,n_samples,hidden_size,best_epoch,mae,rmse,chosen_lstm
+last_value,train,8616,,,0.737,1.067,
+last_value,val,2880,,,0.608,0.925,
+last_value,test,2880,,,0.42,0.593,
+lag_linear,train,8616,,,0.719,1.043,
+lag_linear,val,2880,,,0.599,0.91,
+lag_linear,test,2880,,,0.423,0.585,
+lstm_h16,train,8616,16,38,0.731,1.052,
+lstm_h16,val,2880,16,38,0.6,0.914,
+lstm_h32,train,8616,32,39,0.72,1.047,是
+lstm_h32,val,2880,32,39,0.598,0.914,是
+lstm_h32,test,2880,32,39,0.449,0.609,是

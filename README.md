@@ -12,3 +12,4 @@
 | Week 4 | PCA 降维与 K-means 聚类 | [week04](week04/) |
 | Week 5 | MLP 与 PyTorch 训练基础 | [week05](week05/) |
 | Week 6 | 变压器油温预测与序列窗口 | [week06](week06/) |
+| Week 7 | RNN 与 LSTM 序列预测 | [week07](week07/) |
